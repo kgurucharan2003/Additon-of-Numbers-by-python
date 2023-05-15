@@ -1,2 +1,5 @@
 # Additon-of-Numbers-by-python
-Addition of numbers using python programming languague 
+a=int(input("Enter value of a = "))
+b=int(input("Enter value of b = "))
+sum = a + b
+print("The sum of two numbers is",sum)
